@@ -1,4 +1,4 @@
-![CHEESE!](D:\2021_kurs_reacta\tydzien_5\TDD\kr14\roman\romanC.png)
+![CHEESE!](romanC.png)
 
 # Getting Started with Create React App
 
